@@ -1,4 +1,4 @@
-# Blockchain Career Assistant
+# Blockchain Career Assistant 🌐
 
 An AI-powered **Blockchain Career Assistant** built with **RAG
 (Retrieval-Augmented Generation)**. The application allows students and
@@ -11,7 +11,12 @@ local machine.
 
 ------------------------------------------------------------------------
 
-## 🚀 Project Overview
+<img width="1798" height="956" alt="image" src="https://github.com/user-attachments/assets/17fbbffb-db0e-4657-9d29-c8a20cf110b8" />
+
+
+------------------------------------------------------------------------
+
+## 🚀 Project Overview 
 
 The Blockchain Career Assistant is designed to help freshers understand
 blockchain career paths, roles, skills, and learning directions.
