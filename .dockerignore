@@ -1,0 +1,8 @@
+.env
+.venv
+gemini-rag-app
+__pycache__
+*.py[cod]
+*.log
+.git
+*.pdf

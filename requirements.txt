@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain-nvidia-ai-endpoints
+pypdf
+pinecone
+pydantic
+python-dotenv
