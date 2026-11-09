@@ -661,30 +661,7 @@ Possible improvements:
 -   Learning-plan generation
 -   Admin dashboard
 -   Analytics
-
-------------------------------------------------------------------------
-
-## 🗺️ Roadmap
-
-``` text
-[x] Build frontend
-[x] Build FastAPI backend
-[x] Connect AI model
-[x] Implement RAG
-[x] Connect Pinecone
-[x] Add source references
-[x] Dockerize application
-[x] Deploy to AWS EC2
-[x] Test public frontend
-[ ] Add domain
-[ ] Add HTTPS
-[ ] Add CI/CD
-[ ] Add monitoring
-[ ] Improve RAG evaluation
-[ ] Add authentication
-[ ] Scale infrastructure
-```
-
+    
 ------------------------------------------------------------------------
 
 ## 🎯 Why I Built This
